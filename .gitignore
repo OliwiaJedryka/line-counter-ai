@@ -1,0 +1,21 @@
+## Visual Studio Core Code outputs
+bin/
+obj/
+
+## Rider & VS Code configurations
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Project Specific - Opcjonalnie:
+## Jeśli nie chcesz wrzucać 1000 obrazków treningowych na GitHuba (bo zajmują dużo miejsca),
+## możesz odkomentować poniższą linijkę, usuwając płotek:
+# Dane_Treningowe/
